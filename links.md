@@ -1,3 +1,5 @@
+Block 720506: Fri Jun 30 00:00:01 UTC 2017 [7z](https://transfer.sh/AYYjb/bootstrap.dat.20170630.7z) (199M) [zip](https://transfer.sh/8SF4O/bootstrap.dat.20170630.zip) (215M) [SHA256](https://transfer.sh/jkuG9/sha256.txt)
+
 Block 719236: Thu Jun 29 00:00:01 UTC 2017 [7z](https://transfer.sh/2Ivhe/bootstrap.dat.20170629.7z) (199M) [zip](https://transfer.sh/39Bks/bootstrap.dat.20170629.zip) (214M) [SHA256](https://transfer.sh/TCEa5/sha256.txt)
 
 Block 717964: Wed Jun 28 00:00:01 UTC 2017 [7z](https://transfer.sh/Mmu3T/bootstrap.dat.20170628.7z) (198M) [zip](https://transfer.sh/F61PP/bootstrap.dat.20170628.zip) (214M) [SHA256](https://transfer.sh/mMtos/sha256.txt)
@@ -7,5 +9,3 @@ Block 716690: Tue Jun 27 00:00:01 UTC 2017 [7z](https://transfer.sh/VFnzT/bootst
 Block 715420: Mon Jun 26 00:00:01 UTC 2017 [7z](https://transfer.sh/KFDx0/bootstrap.dat.20170626.7z) (198M) [zip](https://transfer.sh/JYrcg/bootstrap.dat.20170626.zip) (213M) [SHA256](https://transfer.sh/llmJ2/sha256.txt)
 
 Block 714139: Sun Jun 25 00:00:01 UTC 2017 [7z](https://transfer.sh/M7QO8/bootstrap.dat.20170625.7z) (197M) [zip](https://transfer.sh/LGLrG/bootstrap.dat.20170625.zip) (213M) [SHA256](https://transfer.sh/jARxi/sha256.txt)
-
-Block 712865: Sat Jun 24 00:00:01 UTC 2017 [7z](https://transfer.sh/nKNN4/bootstrap.dat.20170624.7z) (197M) [zip](https://transfer.sh/b1vOX/bootstrap.dat.20170624.zip) (213M) [SHA256](https://transfer.sh/KH44x/sha256.txt)
