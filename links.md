@@ -1,3 +1,5 @@
+Block 1161557: Thu Jun 14 00:00:02 UTC 2018 [7z](https://transfer.sh/13hWeQ/bootstrap.dat.20180614.7z) (313M) [zip](https://transfer.sh/R4mrT/bootstrap.dat.20180614.zip) (338M) [SHA256](https://transfer.sh/F60w2/sha256.txt)
+
 Block 1160281: Wed Jun 13 00:00:01 UTC 2018 [7z](https://transfer.sh/3ypRk/bootstrap.dat.20180613.7z) (313M) [zip](https://transfer.sh/P3Yke/bootstrap.dat.20180613.zip) (338M) [SHA256](https://transfer.sh/15E3F1/sha256.txt)
 
 Block 1158989: Tue Jun 12 00:00:01 UTC 2018 [7z](https://transfer.sh/10xIub/bootstrap.dat.20180612.7z) (313M) [zip](https://transfer.sh/6FLZN/bootstrap.dat.20180612.zip) (338M) [SHA256](https://transfer.sh/14FtzY/sha256.txt)
@@ -7,5 +9,3 @@ Block 1157699: Mon Jun 11 00:00:01 UTC 2018 [7z](https://transfer.sh/11QzYk/boot
 Block 1156406: Sun Jun 10 00:00:01 UTC 2018 [7z](https://transfer.sh/11ebO1/bootstrap.dat.20180610.7z) (312M) [zip](https://transfer.sh/jUeLh/bootstrap.dat.20180610.zip) (337M) [SHA256](https://transfer.sh/10usN4/sha256.txt)
 
 Block 1155120: Sat Jun  9 00:00:02 UTC 2018 [7z](https://transfer.sh/4uDFJ/bootstrap.dat.20180609.7z) (312M) [zip](https://transfer.sh/SZGLo/bootstrap.dat.20180609.zip) (336M) [SHA256](https://transfer.sh/HJEtD/sha256.txt)
-
-Block 1153824: Fri Jun  8 00:00:01 UTC 2018 [7z](https://transfer.sh/nmG5T/bootstrap.dat.20180608.7z) (311M) [zip](https://transfer.sh/13GSv/bootstrap.dat.20180608.zip) (336M) [SHA256](https://transfer.sh/Hb87Y/sha256.txt)
