@@ -16,6 +16,8 @@ bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ####For mainnet:
 
+Block 1435969: Sun Jan 20 00:00:01 UTC 2019 [7z](https://transfer.sh/UPSul/bootstrap.dat.20190120.7z) (385M) [zip](https://transfer.sh/Pei3R/bootstrap.dat.20190120.zip) (416M) [SHA256](https://transfer.sh/EhKq2/sha256.txt)
+
 Block 1434751: Sat Jan 19 00:00:01 UTC 2019 [7z](https://transfer.sh/Cslrz/bootstrap.dat.20190119.7z) (385M) [zip](https://transfer.sh/QpVKA/bootstrap.dat.20190119.zip) (415M) [SHA256](https://transfer.sh/SGexh/sha256.txt)
 
 Block 1433528: Fri Jan 18 00:00:01 UTC 2019 [7z](https://transfer.sh/qyL6A/bootstrap.dat.20190118.7z) (384M) [zip](https://transfer.sh/pYqlD/bootstrap.dat.20190118.zip) (415M) [SHA256](https://transfer.sh/15IgfN/sha256.txt)
@@ -25,8 +27,6 @@ Block 1432292: Thu Jan 17 00:00:01 UTC 2019 [7z](https://transfer.sh/jCO4v/boots
 Block 1431071: Wed Jan 16 00:00:01 UTC 2019 [7z](https://transfer.sh/TiYjB/bootstrap.dat.20190116.7z) (384M) [zip](https://transfer.sh/JhiIQ/bootstrap.dat.20190116.zip) (414M) [SHA256](https://transfer.sh/29Hbw/sha256.txt)
 
 Block 1429858: Tue Jan 15 00:00:01 UTC 2019 [7z](https://transfer.sh/siSaH/bootstrap.dat.20190115.7z) (383M) [zip](https://transfer.sh/14koH0/bootstrap.dat.20190115.zip) (414M) [SHA256](https://transfer.sh/2vBWy/sha256.txt)
-
-Block 1428680: Mon Jan 14 00:00:01 UTC 2019 [7z](https://transfer.sh/fGLbN/bootstrap.dat.20190114.7z) (383M) [zip](https://transfer.sh/TNjpg/bootstrap.dat.20190114.zip) (414M) [SHA256](https://transfer.sh/a5YQM/sha256.txt)
 
 ## Join the MOIN Movement
 
