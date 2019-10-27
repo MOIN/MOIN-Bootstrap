@@ -1,5 +1,8 @@
 ![MOIN Bootstrap](https://i.imgur.com/KjM1jMp.jpg)
 
+**Uploading to transfer.sh has become less reliable**
+**If there are no valid links below, go here: https://discovermoin.com/bootstrap/**
+
 bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ### Usage
