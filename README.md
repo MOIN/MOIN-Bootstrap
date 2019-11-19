@@ -19,6 +19,8 @@ bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ####For mainnet:
 
+Block 1822728: Tue Nov 19 00:00:01 UTC 2019 [7z](Could not save metadata) (483M) [zip](Could not save metadata) (520M) [SHA256](Could not save metadata)
+
 Block 1821440: Mon Nov 18 00:00:01 UTC 2019 [7z]() (482M) [zip](Could not save metadata) (520M) [SHA256](Could not save metadata)
 
 Block 1820167: Sun Nov 17 00:00:01 UTC 2019 [7z]() (482M) [zip]() (520M) [SHA256]()
@@ -28,8 +30,6 @@ Block 1818890: Sat Nov 16 00:00:01 UTC 2019 [7z](https://transfer.sh/WctqK/boots
 Block 1817626: Fri Nov 15 00:00:01 UTC 2019 [7z]() (481M) [zip](Could not save metadata) (519M) [SHA256](Could not save metadata)
 
 Block 1816337: Thu Nov 14 00:00:01 UTC 2019 [7z]() (481M) [zip]() (519M) [SHA256]()
-
-Block 1815046: Wed Nov 13 00:00:01 UTC 2019 [7z](Could not save file) (481M) [zip]() (518M) [SHA256]()
 
 ## Join the MOIN Movement
 
