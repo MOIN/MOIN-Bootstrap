@@ -19,6 +19,8 @@ bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ####For mainnet:
 
+Block 2074190: Tue Jun  2 00:00:02 UTC 2020 [7z](Could not save file) (549M) [zip](Could not save file) (591M) [SHA256](https://transfer.sh/NH0Tp/sha256.txt)
+
 Block 2072909: Mon Jun  1 00:00:02 UTC 2020 [7z](Could not save metadata) (548M) [zip](Could not save metadata) (591M) [SHA256](Could not save metadata)
 
 Block 2071656: Sun May 31 00:00:03 UTC 2020 [7z](Could not save file) (548M) [zip](Could not save file) (591M) [SHA256](https://transfer.sh/yVCHc/sha256.txt)
@@ -28,8 +30,6 @@ Block 2070432: Sat May 30 00:00:03 UTC 2020 [7z](Could not save file) (548M) [zi
 Block 2069191: Fri May 29 00:00:02 UTC 2020 [7z]() (547M) [zip](Could not save file) (590M) [SHA256](https://transfer.sh/kJkvm/sha256.txt)
 
 Block 2067931: Thu May 28 00:00:02 UTC 2020 [7z](Could not save file) (547M) [zip](Could not save file) (590M) [SHA256]()
-
-Block 2066694: Wed May 27 00:00:02 UTC 2020 [7z](https://transfer.sh/oebrh/bootstrap.dat.20200527.7z) (547M) [zip](https://transfer.sh/iWlew/bootstrap.dat.20200527.zip) (589M) [SHA256](https://transfer.sh/d76C3/sha256.txt)
 
 ## Join the MOIN Movement
 
