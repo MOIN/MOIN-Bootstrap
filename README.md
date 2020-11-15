@@ -19,6 +19,8 @@ bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ####For mainnet:
 
+Block 2272784: Sun Nov 15 00:00:02 UTC 2020 [7z]() (601M) [zip]() (647M) [SHA256]()
+
 Block 2271618: Sat Nov 14 00:00:03 UTC 2020 [7z]() (601M) [zip]() (647M) [SHA256]()
 
 Block 2270429: Fri Nov 13 00:00:02 UTC 2020 [7z]() (600M) [zip]() (647M) [SHA256]()
@@ -28,8 +30,6 @@ Block 2269228: Thu Nov 12 00:00:02 UTC 2020 [7z]() (600M) [zip]() (646M) [SHA256
 Block 2267994: Wed Nov 11 00:00:03 UTC 2020 [7z]() (600M) [zip]() (646M) [SHA256]()
 
 Block 2266759: Tue Nov 10 00:00:02 UTC 2020 [7z]() (599M) [zip]() (646M) [SHA256]()
-
-Block 2265564: Mon Nov  9 00:00:02 UTC 2020 [7z]() (599M) [zip]() (645M) [SHA256]()
 
 ## Join the MOIN Movement
 
