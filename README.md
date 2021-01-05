@@ -19,7 +19,7 @@ bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ####For mainnet:
 
-Block 2332350: Tue Jan  5 00:00:03 UTC 2021 [7z]() (616M) [zip]() (663M) [SHA256]()
+Block 2331371: Mon Jan  4 00:00:03 UTC 2021 [7z](Could not save file) (616M) [zip]() (663M) [SHA256]()
 
 Block 2330267: Sun Jan  3 00:00:03 UTC 2021 [7z](Could not save file) (616M) [zip]() (663M) [SHA256]()
 
