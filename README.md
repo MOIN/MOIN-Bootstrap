@@ -19,6 +19,8 @@ bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ####For mainnet:
 
+Block : Thu Apr  1 00:00:01 UTC 2021 [7z](https://transfer.sh/SEh0E/bootstrap.dat.20210401.7z) (624M) [zip](https://transfer.sh/4clMp/bootstrap.dat.20210401.zip) (672M) [SHA256](https://transfer.sh/mV93k/sha256.txt)
+
 Block : Wed Mar 31 00:00:01 UTC 2021 [7z](https://transfer.sh/jW6xr/bootstrap.dat.20210331.7z) (624M) [zip](https://transfer.sh/4OanI/bootstrap.dat.20210331.zip) (672M) [SHA256](https://transfer.sh/dQYgh/sha256.txt)
 
 Block : Tue Mar 30 00:00:01 UTC 2021 [7z](https://transfer.sh/sIl7y/bootstrap.dat.20210330.7z) (624M) [zip](https://transfer.sh/rHc17/bootstrap.dat.20210330.zip) (672M) [SHA256](https://transfer.sh/LLriF/sha256.txt)
@@ -28,8 +30,6 @@ Block : Mon Mar 29 00:00:01 UTC 2021 [7z](https://transfer.sh/k74H1/bootstrap.da
 Block : Sun Mar 28 00:00:01 UTC 2021 [7z](https://transfer.sh/udFvh/bootstrap.dat.20210328.7z) (624M) [zip](https://transfer.sh/D2f6Q/bootstrap.dat.20210328.zip) (672M) [SHA256](https://transfer.sh/LNLwH/sha256.txt)
 
 Block : Sat Mar 27 00:00:01 UTC 2021 [7z](https://transfer.sh/6nJEu/bootstrap.dat.20210327.7z) (624M) [zip](https://transfer.sh/oKIvz/bootstrap.dat.20210327.zip) (672M) [SHA256](https://transfer.sh/dQY5C/sha256.txt)
-
-Block : Fri Mar 26 00:00:01 UTC 2021 [7z](https://transfer.sh/2MaXD/bootstrap.dat.20210326.7z) (624M) [zip](https://transfer.sh/ej3In/bootstrap.dat.20210326.zip) (672M) [SHA256](https://transfer.sh/wDZFX/sha256.txt)
 
 ## Join the MOIN Movement
 
