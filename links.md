@@ -1,3 +1,5 @@
+Block : Tue Aug  3 00:00:01 UTC 2021 [7z](https://transfer.sh/1jpR2H1/bootstrap.dat.20210803.7z) (624M) [zip](https://transfer.sh/18tEx3b/bootstrap.dat.20210803.zip) (672M) [SHA256](https://transfer.sh/17mjfcY/sha256.txt)
+
 Block : Mon Aug  2 00:00:01 UTC 2021 [7z](https://transfer.sh/1DQubpe/bootstrap.dat.20210802.7z) (624M) [zip](https://transfer.sh/1k9brDX/bootstrap.dat.20210802.zip) (672M) [SHA256](https://transfer.sh/1njruly/sha256.txt)
 
 Block : Sun Aug  1 00:00:01 UTC 2021 [7z](https://transfer.sh/tf/bootstrap.dat.20210801.7z) (624M) [zip](https://transfer.sh/1e442xM/bootstrap.dat.20210801.zip) (672M) [SHA256](https://transfer.sh/13Ni653/sha256.txt)
@@ -7,5 +9,3 @@ Block : Sat Jul 31 00:00:01 UTC 2021 [7z](https://transfer.sh/1q2CjMh/bootstrap.
 Block : Fri Jul 30 00:00:01 UTC 2021 [7z](https://transfer.sh/1cUq9Z8/bootstrap.dat.20210730.7z) (624M) [zip](https://transfer.sh/Fl4/bootstrap.dat.20210730.zip) (672M) [SHA256](https://transfer.sh/1hgjNx8/sha256.txt)
 
 Block : Thu Jul 29 00:00:01 UTC 2021 [7z](https://transfer.sh/1eUgTup/bootstrap.dat.20210729.7z) (624M) [zip](https://transfer.sh/1guKlRz/bootstrap.dat.20210729.zip) (672M) [SHA256](https://transfer.sh/11ScmVh/sha256.txt)
-
-Block : Wed Jul 28 00:00:01 UTC 2021 [7z](https://transfer.sh/wz/bootstrap.dat.20210728.7z) (624M) [zip](https://transfer.sh/1DMsUW1/bootstrap.dat.20210728.zip) (672M) [SHA256](https://transfer.sh/1rvMmwq/sha256.txt)
