@@ -1,3 +1,5 @@
+Block : Thu Oct 21 00:00:01 UTC 2021 [7z](Could not save file) (624M) [zip](https://transfer.sh/fJHmcf/bootstrap.dat.20211021.zip) (672M) [SHA256](https://transfer.sh/WFYdL2/sha256.txt)
+
 Block : Wed Oct 20 00:00:01 UTC 2021 [7z](https://transfer.sh/yWkvN3/bootstrap.dat.20211020.7z) (624M) [zip](https://transfer.sh/Fbmjfm/bootstrap.dat.20211020.zip) (672M) [SHA256](https://transfer.sh/lyTXc9/sha256.txt)
 
 Block : Tue Oct 19 00:00:01 UTC 2021 [7z](https://transfer.sh/J7yVCs/bootstrap.dat.20211019.7z) (624M) [zip](https://transfer.sh/jYzTSI/bootstrap.dat.20211019.zip) (672M) [SHA256](https://transfer.sh/XeScaq/sha256.txt)
@@ -7,5 +9,3 @@ Block : Mon Oct 18 00:00:01 UTC 2021 [7z](https://transfer.sh/5no6wx/bootstrap.d
 Block : Sun Oct 17 00:00:01 UTC 2021 [7z](https://transfer.sh/hEptvY/bootstrap.dat.20211017.7z) (624M) [zip](https://transfer.sh/ifQwCh/bootstrap.dat.20211017.zip) (672M) [SHA256](https://transfer.sh/DvuXUr/sha256.txt)
 
 Block : Sat Oct 16 00:00:01 UTC 2021 [7z](https://transfer.sh/AVIOB6/bootstrap.dat.20211016.7z) (624M) [zip](https://transfer.sh/62tYQV/bootstrap.dat.20211016.zip) (672M) [SHA256](https://transfer.sh/PbgbE1/sha256.txt)
-
-Block : Fri Oct 15 00:00:01 UTC 2021 [7z](https://transfer.sh/sCc5NQ/bootstrap.dat.20211015.7z) (624M) [zip](https://transfer.sh/WbPpeu/bootstrap.dat.20211015.zip) (672M) [SHA256](https://transfer.sh/ax8nmI/sha256.txt)
