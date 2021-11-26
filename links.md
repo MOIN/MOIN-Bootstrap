@@ -1,3 +1,5 @@
+Block : Fri Nov 26 00:00:02 UTC 2021 [7z](https://transfer.sh/G9PEkM/bootstrap.dat.20211126.7z) (624M) [zip](https://transfer.sh/WqATOF/bootstrap.dat.20211126.zip) (672M) [SHA256](https://transfer.sh/vXL38U/sha256.txt)
+
 Block : Thu Nov 25 00:00:01 UTC 2021 [7z](https://transfer.sh/AiyVYO/bootstrap.dat.20211125.7z) (624M) [zip](https://transfer.sh/oiu682/bootstrap.dat.20211125.zip) (672M) [SHA256](https://transfer.sh/6dWpBM/sha256.txt)
 
 Block : Wed Nov 24 00:00:01 UTC 2021 [7z](https://transfer.sh/Dp9uX3/bootstrap.dat.20211124.7z) (624M) [zip](https://transfer.sh/os5990/bootstrap.dat.20211124.zip) (672M) [SHA256](https://transfer.sh/Tz9JCX/sha256.txt)
@@ -8,5 +10,3 @@ Block : Mon Nov 22 00:00:02 UTC 2021 [7z](https://transfer.sh/lw49RL/bootstrap.d
 
 Block : Sun Nov 21 00:00:01 UTC 2021 [7z](<html>
 <head><title>413 Request Entity Too Large</title></head>
-<body bgcolor="white">
-<center><h1>413 Request Entity Too Large</h1></center>
