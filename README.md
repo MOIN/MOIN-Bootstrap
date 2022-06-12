@@ -19,6 +19,8 @@ bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ####For mainnet:
 
+Block : Sun Jun 12 00:00:01 UTC 2022 [7z]() (624M) [zip]() (672M) [SHA256]()
+
 Block : Sat Jun 11 00:00:01 UTC 2022 [7z](https://transfer.sh/3gHWnT/bootstrap.dat.20220611.7z) (624M) [zip](https://transfer.sh/2G0LKI/bootstrap.dat.20220611.zip) (672M) [SHA256](https://transfer.sh/80G9en/sha256.txt)
 
 Block : Fri Jun 10 00:00:01 UTC 2022 [7z](https://transfer.sh/GjyaWq/bootstrap.dat.20220610.7z) (624M) [zip](https://transfer.sh/UaBLz4/bootstrap.dat.20220610.zip) (672M) [SHA256](https://transfer.sh/r5sRpB/sha256.txt)
@@ -28,8 +30,6 @@ Block : Thu Jun  9 00:00:01 UTC 2022 [7z](https://transfer.sh/FhEY0A/bootstrap.d
 Block : Wed Jun  8 00:00:01 UTC 2022 [7z](https://transfer.sh/90qQ4N/bootstrap.dat.20220608.7z) (624M) [zip](https://transfer.sh/GbCxdE/bootstrap.dat.20220608.zip) (672M) [SHA256](https://transfer.sh/WV5pYS/sha256.txt)
 
 Block : Tue Jun  7 00:00:01 UTC 2022 [7z](https://transfer.sh/zstbko/bootstrap.dat.20220607.7z) (624M) [zip](https://transfer.sh/5oEtfc/bootstrap.dat.20220607.zip) (672M) [SHA256](https://transfer.sh/TMFr9V/sha256.txt)
-
-Block : Mon Jun  6 00:00:01 UTC 2022 [7z](https://transfer.sh/wQNffW/bootstrap.dat.20220606.7z) (624M) [zip](https://transfer.sh/7CY1au/bootstrap.dat.20220606.zip) (672M) [SHA256](https://transfer.sh/L3oAnN/sha256.txt)
 
 ## Join the MOIN Movement
 
