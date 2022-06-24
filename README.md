@@ -19,6 +19,20 @@ bootstrap.dat files for **MOIN** https://discovermoin.com
 
 ####For mainnet:
 
+Block : Fri Jun 24 00:00:01 UTC 2022 [7z](<html>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>) (624M) [zip](<html>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>) (672M) [SHA256](https://transfer.sh/5gtDuw/sha256.txt)
+
 Block : Thu Jun 23 00:00:01 UTC 2022 [7z](https://transfer.sh/7NJKVb/bootstrap.dat.20220623.7z) (624M) [zip](https://transfer.sh/vOLrvN/bootstrap.dat.20220623.zip) (672M) [SHA256](https://transfer.sh/iGMgs3/sha256.txt)
 
 Block : Wed Jun 22 00:00:01 UTC 2022 [7z](https://transfer.sh/ry1tVq/bootstrap.dat.20220622.7z) (624M) [zip](https://transfer.sh/OD66Fd/bootstrap.dat.20220622.zip) (672M) [SHA256](https://transfer.sh/d7z0c9/sha256.txt)
@@ -28,8 +42,6 @@ Block : Tue Jun 21 00:00:01 UTC 2022 [7z](https://transfer.sh/Ycq8rh/bootstrap.d
 Block : Mon Jun 20 00:00:01 UTC 2022 [7z](https://transfer.sh/f5dWJB/bootstrap.dat.20220620.7z) (624M) [zip](https://transfer.sh/3lBPQb/bootstrap.dat.20220620.zip) (672M) [SHA256](https://transfer.sh/PhG0nb/sha256.txt)
 
 Block : Sun Jun 19 00:00:01 UTC 2022 [7z](https://transfer.sh/jvvghy/bootstrap.dat.20220619.7z) (624M) [zip](https://transfer.sh/4IAdSa/bootstrap.dat.20220619.zip) (672M) [SHA256](https://transfer.sh/dYVIiC/sha256.txt)
-
-Block : Sat Jun 18 00:00:01 UTC 2022 [7z](https://transfer.sh/cLUKyS/bootstrap.dat.20220618.7z) (624M) [zip](https://transfer.sh/vpv9uc/bootstrap.dat.20220618.zip) (672M) [SHA256](https://transfer.sh/XwmowY/sha256.txt)
 
 ## Join the MOIN Movement
 
