@@ -1,3 +1,5 @@
+Block : Mon Jul  4 00:00:01 UTC 2022 [7z](https://transfer.sh/LydiJ4/bootstrap.dat.20220704.7z) (624M) [zip](https://transfer.sh/RMU76N/bootstrap.dat.20220704.zip) (672M) [SHA256](https://transfer.sh/PeefmE/sha256.txt)
+
 Block : Sun Jul  3 00:00:01 UTC 2022 [7z](https://transfer.sh/a4VFtA/bootstrap.dat.20220703.7z) (624M) [zip](https://transfer.sh/llCWIo/bootstrap.dat.20220703.zip) (672M) [SHA256](https://transfer.sh/h8Jxrx/sha256.txt)
 
 Block : Sat Jul  2 00:00:02 UTC 2022 [7z](https://transfer.sh/HcpLyC/bootstrap.dat.20220702.7z) (624M) [zip](https://transfer.sh/yLfHMf/bootstrap.dat.20220702.zip) (672M) [SHA256](https://transfer.sh/MEsXGe/sha256.txt)
@@ -8,5 +10,3 @@ Block : Thu Jun 30 00:00:01 UTC 2022 [7z](https://transfer.sh/0YgC6N/bootstrap.d
 <head><title>500 Internal Server Error</title></head>
 <body>
 <center><h1>500 Internal Server Error</h1></center>
-<hr><center>nginx/1.18.0</center>
-</body>
